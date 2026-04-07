@@ -1,0 +1,46 @@
+version: 1
+
+project:
+  id: nathan-damas-site-bilingual-final
+  title: Nathan Damas Antonio
+  description: >
+    Publication-ready bilingual academic-professional website for Nathan Damas Antonio,
+    focused on GIScience, collaborative cartography, OpenStreetMap, spatial and
+    spatio-temporal analysis, semantic interoperability, photogrammetry, LiDAR,
+    UAV and spatial data infrastructures.
+  authors:
+    - name: Nathan Damas Antonio
+      affiliations:
+        - Universidade Federal do Paraná
+        - Heidelberg University
+  toc:
+    - file: content/index.md
+    - file: content/pt/index.md
+      children:
+        - file: content/pt/about/index.md
+        - file: content/pt/research/index.md
+        - file: content/pt/publications/index.md
+        - file: content/pt/projects/index.md
+          children:
+            - file: content/pt/projects/osm-spatiotemporal-analysis.md
+            - file: content/pt/projects/geospatial-infrastructure.md
+            - file: content/pt/projects/nlp-llm-geospatial.md
+        - file: content/pt/cv/index.md
+        - file: content/pt/contact/index.md
+    - file: content/en/index.md
+      children:
+        - file: content/en/about/index.md
+        - file: content/en/research/index.md
+        - file: content/en/publications/index.md
+        - file: content/en/projects/index.md
+          children:
+            - file: content/en/projects/osm-spatiotemporal-analysis.md
+            - file: content/en/projects/geospatial-infrastructure.md
+            - file: content/en/projects/nlp-llm-geospatial.md
+        - file: content/en/cv/index.md
+        - file: content/en/contact/index.md
+
+site:
+  title: Nathan Damas Antonio
+  options:
+    logo_text: Nathan Damas Antonio
