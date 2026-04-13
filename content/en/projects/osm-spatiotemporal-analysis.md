@@ -1,8 +1,3 @@
----
-title: OpenStreetMap: spatio-temporal analysis of contributions and deletions
-short_title: OSM analysis
----
-
 # OpenStreetMap: spatio-temporal analysis of contributions and deletions
 
 > [Versão em português](../../pt/projects/osm-spatiotemporal-analysis.md)
