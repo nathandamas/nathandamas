@@ -1,6 +1,6 @@
 ---
 title: Nathan Damas Antonio
-short_title: Início - PT
+short_title: Início
 authors: []
 ---
 
@@ -25,24 +25,5 @@ Curitiba, Paraná, Brasil
 
 [CV](cv/index.md) | [Publicações](publications/index.md) | [Projetos](projects/index.md) | [ORCID](https://orcid.org/0000-0002-1469-2867) | [Lattes](http://lattes.cnpq.br/3565779095318842)
 
-:::
-::::
-
-## Projetos em destaque
-
-::::{grid} 1 1 2 3
-:::{card} OpenStreetMap e dinâmica de contribuição
-:link: projects/osm-spatiotemporal-analysis.md
-Análises espaço-temporais de contribuições, exclusões e maturação de dados no OpenStreetMap.
-:::
-
-:::{card} Infraestrutura geoespacial
-:link: projects/geospatial-infrastructure.md
-Modelagem de bancos espaciais, metadados, interoperabilidade e automação aplicada à gestão territorial.
-:::
-
-:::{card} NLP e LLMs em geotecnologias
-:link: projects/nlp-llm-geospatial.md
-Aplicações de processamento de linguagem natural e large language models no domínio geoespacial.
 :::
 ::::
