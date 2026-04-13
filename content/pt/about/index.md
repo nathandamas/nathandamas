@@ -18,9 +18,9 @@ Tem experiência com Python, PostGIS, QGIS, GeoServer, GeoNode, ETL geoespacial,
 | :--- | :--- | :--- | :--- |
 | 2021–atual | Doutorando em Ciências Geodésicas | Universidade Federal do Paraná, Brasil | Pesquisa voltada a GIScience, cartografia colaborativa, OpenStreetMap, análise espacial e interoperabilidade semântica |
 | 2023–2024 | Pesquisador Visitante | Heidelberg University, Alemanha | Estágio de pesquisa de doutorado com financiamento CAPES-PRINT |
-| 2013–2015 | Mestre em Ciências Geodésicas | Universidade Federal do Paraná, Brasil | Cadastro 3D |
+| 2013–2015 | Mestre em Ciências Geodésicas | Universidade Federal do Paraná, Brasil | Uma Abordagem Metodológica para Representar Objetos Tridimensionais em um Sistema de Informações Territorial |
 | 2018 | Bacharel em Física | Universidade Federal do Paraná, Brasil | — |
-| 2008–2013 | Engenheiro Cartógrafo e Agrimensor | Universidade Federal do Paraná, Brasil | — |
+| 2008–2013 | Engenheiro Cartógrafo e Agrimensor | Universidade Federal do Paraná, Brasil | Estudo da Estrutura Cicloviária de Curitiba |
 
 ## Atuação
 
