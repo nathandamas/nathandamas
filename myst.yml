@@ -8,11 +8,7 @@ project:
     focused on GIScience, collaborative cartography, OpenStreetMap, spatial and
     spatio-temporal analysis, semantic interoperability, photogrammetry, LiDAR,
     UAV, 3D cadastre, and spatial data infrastructures.
-  authors:
-    - name: Nathan Damas Antonio
-      affiliations:
-        - Universidade Federal do Paraná
-        - Heidelberg University
+
   toc:
     - file: content/index.md
 
