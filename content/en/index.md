@@ -1,52 +1,62 @@
 ---
-title: Home
-short_title: EN
+title: Nathan Damas Antonio
+short_title: Home
+authors: []
 ---
 
-# Nathan Damas Antonio
+Researcher in GIScience, collaborative cartography, OpenStreetMap, spatial analysis, and semantic interoperability.
 
-**GIScience | Geoprocessing | Geomatics | Data Science | OpenStreetMap**
+::::{grid} 1 1 2 2
+:::{grid-item}
+![Nathan Damas Antonio](../../assets/images/profile.jpg)
+:::
 
-Researcher, Cartographer and Land Surveyor Engineer, and PhD candidate in Geodetic Sciences at UFPR, working on collaborative cartography, OpenStreetMap, spatial and spatio-temporal analysis, semantic interoperability, spatial data infrastructures, photogrammetry, LiDAR, UAV and 3D cadastre.
+:::{grid-item}
 
-> [Versão em português](../pt/index.md)
+**Ph.D. Candidate in Geodetic Sciences | UFPR**  
+**Researcher | LAGEAMB/UFPR**  
+**Visiting Researcher (2023–2024) | Heidelberg University**
 
-## Short bio
+Curitiba, Paraná, Brazil
 
-Nathan Damas Antonio works at the intersection of **academic research**, **geospatial data science** and **applied technical development**. His recent work combines OpenStreetMap, spatio-temporal analysis, Python/PostGIS automation, spatial data infrastructures and emerging NLP/LLM methods for geospatial practice.
+[nathandamas@ufpr.br](mailto:nathandamas@ufpr.br) | [LinkedIn](https://www.linkedin.com/in/nathandamas/)
 
-## Recruiter-facing bio
+**Research interests:** collaborative cartography, OpenStreetMap, VGI, spatial and spatio-temporal analysis, semantic interoperability, photogrammetry, LiDAR, UAV, spatial data infrastructures, and 3D cadastre.
 
-Geospatial researcher and practitioner with experience in **Python, QGIS, PostgreSQL/PostGIS, GeoServer, GeoNode, the OHSOME API, geospatial ETL and semantic/cartographic standardization**. Particularly well aligned with roles and collaborations in **GIScience, spatial analysis, territorial data management, geospatial infrastructures and OpenStreetMap-related research**.
+[CV](cv/index.md) | [Publications](publications/index.md) | [Projects](projects/index.md) | [ORCID](https://orcid.org/0000-0002-1469-2867) | [Lattes](http://lattes.cnpq.br/3565779095318842)
 
-## Strategic areas
+:::
+::::
 
-- OpenStreetMap, collaborative cartography and data quality
-- Data-driven spatial and spatio-temporal analysis
-- Spatial data infrastructures, metadata and interoperability
-- Photogrammetry, LiDAR, UAV and 3D cadastre
-- NLP and LLMs applied to the geospatial domain
+## Featured Projects
 
-## Selected works
+::::{grid} 1 1 2 3
+:::{card} OpenStreetMap and contribution dynamics
+:link: projects/osm-spatiotemporal-analysis.md
+Spatio-temporal analyses of contributions, deletions, and data maturation in OpenStreetMap.
+:::
 
-### Featured research and projects
+:::{card} Geospatial infrastructure
+:link: projects/geospatial-infrastructure.md
+Spatial database modeling, metadata, interoperability, and automation applied to territorial data management.
+:::
 
-- [OpenStreetMap: spatio-temporal analysis of contributions and deletions](projects/osm-spatiotemporal-analysis.md)
-- [Spatial data infrastructures and territorial data management](projects/geospatial-infrastructure.md)
-- [NLP and LLMs applied to the geospatial domain](projects/nlp-llm-geospatial.md)
+:::{card} NLP and LLMs in geospatial technologies
+:link: projects/nlp-llm-geospatial.md
+Applications of natural language processing and large language models in the geospatial domain.
+:::
+::::
 
-### Featured output
+## Highlights
 
-- [Development of a dashboard for spatio-temporal analysis of OpenStreetMap edits in Brazil](publications/index.md#selected-publications) — awarded in the Academic Track of State of the Map Brasil 2025.
-- [Mapping with Words: Integrating Large Language Models into Geospatial Practice](publications/index.md#selected-publications)
-- [Transparency and Trust in Collaborative Mapping: Concerns and Dilemmas in AI-Assisted Road Integration within OpenStreetMap](publications/index.md#selected-publications)
-- [Temporal Dynamics of OpenStreetMap Contributions and Deletions in Curitiba](publications/index.md#selected-publications)
+- Ph.D. candidate in Geodetic Sciences at UFPR.
+- Experience with Python, PostGIS, QGIS, GeoServer, GeoNode, and the OHSOME API.
+- Research focused on OpenStreetMap, collaborative cartography, and data quality.
+- Work involving photogrammetry, LiDAR, UAV, and 3D cadastre.
+- International research experience as a visiting researcher at Heidelberg University.
 
-## Navigation
+## Recent News
 
-- [About](about/index.md)
-- [Research](research/index.md)
-- [Publications](publications/index.md)
-- [Projects](projects/index.md)
-- [CV](cv/index.md)
-- [Contact](contact/index.md)
+- Launch of the public version of the academic website.
+- Development of the blog section for authored texts and methodological reflections.
+- Consolidation of project and publication pages.
