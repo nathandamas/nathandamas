@@ -57,8 +57,12 @@
   }
 }
 
-/* Hide page download button */
-a[aria-label="Download this page"],
-button[aria-label="Download this page"] {
+/* Hide MyST source-download button globally */
+a[aria-label*="Download"],
+button[aria-label*="Download"],
+a[href$=".md"],
+a[href*=".md?"],
+a[href*=".md#"],
+a[href*="/index-"][href*=".md"] {
   display: none !important;
 }
