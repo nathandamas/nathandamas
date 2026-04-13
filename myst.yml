@@ -8,7 +8,9 @@ project:
     focused on GIScience, collaborative cartography, OpenStreetMap, spatial and
     spatio-temporal analysis, semantic interoperability, photogrammetry, LiDAR,
     UAV, 3D cadastre, and spatial data infrastructures.
-  downloads: []
+  
+    downloads: []
+  
   toc:
     - file: content/index.md
 
