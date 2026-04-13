@@ -1,27 +1,17 @@
 ---
-title: Início
+title: Nathan Damas Antonio
 short_title: Início
+authors: []
 ---
-
-# Nathan Damas Antonio
 
 Pesquisador em GIScience, cartografia colaborativa, OpenStreetMap, análise espacial e interoperabilidade semântica.
 
 ::::{grid} 1 1 2 2
 :::{grid-item}
-:columns: 6
-
-:::{figure} ../../assets/images/profile.jpg
-:alt: Nathan Damas Antonio
-:width: 320px
-:class: profile-photo
-:::
-
+![Nathan Damas Antonio](../../assets/images/profile.jpg)
 :::
 
 :::{grid-item}
-:columns: 6
-:class: profile-summary
 
 **Doutorando em Ciências Geodésicas | UFPR**  
 **Pesquisador | LAGEAMB/UFPR**  
@@ -56,17 +46,3 @@ Modelagem de bancos espaciais, metadados, interoperabilidade e automação aplic
 Aplicações de processamento de linguagem natural e large language models no domínio geoespacial.
 :::
 ::::
-
-## Highlights
-
-- Doutorando em Ciências Geodésicas na UFPR.
-- Experiência com Python, PostGIS, QGIS, GeoServer, GeoNode e OHSOME API.
-- Pesquisa em OpenStreetMap, cartografia colaborativa e qualidade de dados.
-- Atuação em fotogrametria, LiDAR, UAV e cadastro 3D.
-- Experiência internacional como pesquisador visitante na Heidelberg University.
-
-## Recent News
-
-- Lançamento da versão pública do site acadêmico.
-- Estruturação da seção de blog para textos autorais e reflexões metodológicas.
-- Consolidação das páginas de projetos e publicações.
