@@ -14,8 +14,11 @@ project:
         - Universidade Federal do Paraná
         - Heidelberg University
   toc:
-    - file: content/pt/index.md
+    - file: content/index.md
+
+    - title: PT
       children:
+        - file: content/pt/index.md
         - file: content/pt/about/index.md
         - file: content/pt/research/index.md
         - file: content/pt/publications/index.md
@@ -27,11 +30,13 @@ project:
         - file: content/pt/blog/index.md
           children:
             - file: content/pt/blog/2026-04-primeiro-post.md
+            - file: content/pt/blog/2026-04-openstreetmap-e-qualidade.md
         - file: content/pt/cv/index.md
         - file: content/pt/contact/index.md
 
-    - file: content/en/index.md
+    - title: EN
       children:
+        - file: content/en/index.md
         - file: content/en/about/index.md
         - file: content/en/research/index.md
         - file: content/en/publications/index.md
@@ -40,6 +45,10 @@ project:
             - file: content/en/projects/osm-spatiotemporal-analysis.md
             - file: content/en/projects/geospatial-infrastructure.md
             - file: content/en/projects/nlp-llm-geospatial.md
+        - file: content/en/blog/index.md
+          children:
+            - file: content/en/blog/2026-04-first-post.md
+            - file: content/en/blog/2026-04-openstreetmap-and-data-quality.md
         - file: content/en/cv/index.md
         - file: content/en/contact/index.md
 
