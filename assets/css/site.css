@@ -1,0 +1,42 @@
+.footer {
+  margin-top: 0;
+  padding: 0;
+  border-top: none;
+}
+
+.site-footer-bar {
+  width: 100%;
+  box-sizing: border-box;
+  background: #04133f;
+  padding: 24px 20px;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.site-footer-bar p {
+  margin: 0;
+  line-height: 1.8;
+}
+
+.site-footer-bar a {
+  color: #8eb8ff;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.site-footer-bar a:hover {
+  color: #dbe8ff;
+}
+
+@media (max-width: 768px) {
+  .site-footer-bar {
+    padding: 20px 14px;
+    font-size: 0.95rem;
+  }
+
+  .site-footer-bar a {
+    white-space: normal;
+  }
+}
