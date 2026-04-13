@@ -56,3 +56,9 @@
     white-space: normal;
   }
 }
+
+/* Hide page download button */
+a[aria-label="Download this page"],
+button[aria-label="Download this page"] {
+  display: none !important;
+}
