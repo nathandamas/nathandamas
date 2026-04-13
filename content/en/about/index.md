@@ -18,9 +18,9 @@ He has experience with Python, PostGIS, QGIS, GeoServer, GeoNode, spatial ETL, m
 | :--- | :--- | :--- | :--- |
 | 2021–present | Ph.D. Candidate in Geodetic Sciences | Federal University of Paraná, Brazil | Research focused on GIScience, collaborative cartography, OpenStreetMap, spatial analysis, and semantic interoperability |
 | 2023–2024 | Visiting Researcher | Heidelberg University, Germany | Doctoral research internship funded by CAPES-PRINT |
-| 2013–2015 | M.Sc. in Geodetic Sciences | Federal University of Paraná, Brazil | 3D Cadastre |
+| 2013–2015 | M.Sc. in Geodetic Sciences | Federal University of Paraná, Brazil | A Methodological Approach to Representing Three-Dimensional Objects in a Spatial Information System |
 | 2018 | B.Sc. in Physics | Federal University of Paraná, Brazil | — |
-| 2008–2013 | B.Eng. in Cartographic and Land Survey Engineering | Federal University of Paraná, Brazil | — |
+| 2008–2013 | B.Eng. in Cartographic and Land Survey Engineering | Federal University of Paraná, Brazil | A study of the Cycling Structure of Curitiba |
 
 
 ## Research Interests
