@@ -44,3 +44,9 @@ site:
   title: Nathan Damas Antonio
   options:
     logo_text: Nathan Damas Antonio
+    site:
+  template: book-theme
+  options:
+    style: ./assets/css/site.css
+  parts:
+    footer: footer.md
