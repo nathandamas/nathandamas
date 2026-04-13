@@ -27,7 +27,6 @@ project:
         - file: content/pt/blog/index.md
           children:
             - file: content/pt/blog/2026-04-primeiro-post.md
-            - file: content/pt/blog/2026-04-openstreetmap-e-qualidade.md
         - file: content/pt/cv/index.md
         - file: content/pt/contact/index.md
 
