@@ -41,11 +41,18 @@ project:
         - file: content/en/contact/index.md
 
 site:
-  title: Nathan Damas Antonio
-  options:
-    logo_text: Nathan Damas Antonio
-    site:
   template: book-theme
+  options:
+    logo: ./assets/images/logo-light.png
+    logo_dark: ./assets/images/logo-dark.png
+    logo_alt: Nathan Damas Antonio
+    logo_text: Nathan Damas Antonio
+    logo_url: /pt/
+    favicon: ./assets/images/favicon.png
+    style: ./assets/css/site.css
+    outline_maxdepth: 2
+  parts:
+    footer: footer.md
   options:
     style: ./assets/css/site.css
   parts:
