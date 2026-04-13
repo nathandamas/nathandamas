@@ -10,5 +10,5 @@ Academic and professional website.
 
 ## Language / Idioma
 
-- [Português](pt/index.md)
-- [English](en/index.md)
+- 🇧🇷 [Português](pt/index.md)
+- 🇬🇧 [English](en/index.md)
