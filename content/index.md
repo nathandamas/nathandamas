@@ -10,5 +10,5 @@ Academic and professional website.
 
 ## Language / Idioma
 
-- 🇧🇷 [Português](pt/index.md)
-- 🇬🇧 [English](en/index.md)
+- ![](assets/images/flag-br.svg) [Português](pt/index.md)
+- ![](assets/images/flag-uk.svg) [English](en/index.md)
