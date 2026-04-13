@@ -2,6 +2,7 @@
 title: Nathan Damas Antonio
 short_title: Início
 authors: []
+downloads: []
 ---
 
 Pesquisador em GIScience, cartografia colaborativa, OpenStreetMap, análise espacial e interoperabilidade semântica.
