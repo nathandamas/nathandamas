@@ -48,6 +48,7 @@ site:
   template: book-theme
   title: Nathan Damas Antonio
   options:
+    folders: true
     logo: ./assets/images/logo-light.png
     logo_dark: ./assets/images/logo-dark.png
     logo_alt: Nathan Damas Antonio
