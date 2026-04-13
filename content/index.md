@@ -6,7 +6,7 @@ authors: []
 
 # Nathan Damas Antonio
 
-Academic and professional website.
+Professional and Academic personal website.
 
 ## Language / Idioma
 
