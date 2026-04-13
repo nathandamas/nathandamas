@@ -5,7 +5,7 @@ short_title: Home
 
 # Nathan Damas Antonio
 
-**Bilingual academic-professional website / Site acadêmico-profissional bilíngue**
+**Bilingual professional website / Site profissional bilíngue**
 
 This website presents Nathan Damas Antonio's research, projects, publications and professional profile in two languages.
 
