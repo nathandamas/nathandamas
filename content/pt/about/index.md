@@ -1,38 +1,67 @@
 ---
 title: Sobre
 short_title: Sobre
+authors: []
 ---
 
 # Sobre
 
-Nathan Damas Antonio é pesquisador em GIScience e geotecnologias, com formação em Engenharia Cartográfica e de Agrimensura, mestrado em Ciências Geodésicas e doutorado em andamento na Universidade Federal do Paraná.
+Nathan Damas Antonio é pesquisador em GIScience e geotecnologias, com formação em Engenharia Cartográfica e de Agrimensura e em Ciências Geodésicas. Sua atuação articula cartografia colaborativa, OpenStreetMap, análise espacial e espaço-temporal, interoperabilidade semântica, infraestruturas de dados espaciais, fotogrametria, LiDAR, dados UAV e cadastro 3D.
 
-> [English version](../../en/about/index.md)
+Sua trajetória acadêmica e profissional combina pesquisa, ensino e trabalho técnico aplicado. Atualmente é doutorando em Ciências Geodésicas na Universidade Federal do Paraná, realizou estágio como pesquisador visitante na Heidelberg University e vem atuando em projetos ligados à gestão de dados territoriais, estruturação de bancos espaciais, interoperabilidade e automação geoespacial.
 
-## Bio acadêmica longa
-
-Sua trajetória combina pesquisa acadêmica, consultoria técnica e desenvolvimento de soluções geoespaciais aplicadas. Os currículos enviados mostram um perfil que transita com consistência entre **cartografia colaborativa, VGI, OpenStreetMap, mobilidade urbana, análise espacial, interoperabilidade semântica, infraestrutura de dados espaciais, fotogrametria, LiDAR, UAV e cadastro 3D**.
-
-No campo acadêmico, sua pesquisa recente tem se concentrado na interpretação espaço-temporal de contribuições no OpenStreetMap, na transparência e qualidade de dados colaborativos, e no uso de métodos computacionais para análise, modelagem e documentação de processos geoespaciais. Em paralelo, desenvolve investigações ligadas à aproximação entre linguagem natural, modelos conceituais e prática geoespacial, incluindo aplicações de NLP, reconhecimento de voz e large language models.
-
-No campo técnico-profissional, sua experiência inclui modelagem e estruturação de bancos de dados geográficos, automação de workflows com Python e PostGIS, integração de dados multi-origem, padronização cartográfica e semântica, metadados, interoperabilidade de serviços geoespaciais e suporte a pesquisa aplicada em ambientes institucionais. Também possui trajetória consolidada em fotogrametria, LiDAR, dados UAV, mapeamento aéreo e representação territorial tridimensional.
-
-Sua formação e experiência internacional incluem o doutorado na UFPR e período como pesquisador visitante na Heidelberg University, além de atuação como professor substituto, consultor em geoprocessamento e pesquisador em laboratório universitário. Essa combinação entre pesquisa, desenvolvimento técnico e prática aplicada define um perfil particularmente forte para GIScience, infraestrutura geoespacial e análise de dados territoriais.
+Tem experiência com Python, PostGIS, QGIS, GeoServer, GeoNode, ETL geoespacial, gestão de metadados, padrões geoespaciais e dados geográficos colaborativos. Seus interesses de pesquisa incluem OpenStreetMap, informação geográfica voluntária, mobilidade urbana, qualidade de dados espaciais e abordagens computacionais emergentes, como NLP e large language models aplicados ao contexto geoespacial.
 
 ## Formação
 
-- Doutorado em Ciências Geodésicas, UFPR (2021–atual)
-- Visiting Researcher, Heidelberg University (2023–2024)
-- Mestrado em Ciências Geodésicas, UFPR (2013–2015)
-- Engenharia Cartográfica e de Agrimensura, UFPR (2008–2013)
-- Bacharelado em Física, UFPR (2018)
+| Ano | Titulação | Instituição | Dissertação/Tese |
+| :--- | :--- | :--- | :--- |
+| 2021–atual | Doutorando em Ciências Geodésicas | Universidade Federal do Paraná, Brasil | Pesquisa voltada a GIScience, cartografia colaborativa, OpenStreetMap, análise espacial e interoperabilidade semântica |
+| 2023–2024 | Pesquisador Visitante | Heidelberg University, Alemanha | Estágio de pesquisa de doutorado com financiamento CAPES-PRINT |
+| 2013–2015 | Mestre em Ciências Geodésicas | Universidade Federal do Paraná, Brasil | Cadastro 3D |
+| 2018 | Bacharel em Física | Universidade Federal do Paraná, Brasil | — |
+| 2008–2013 | Engenheiro Cartógrafo e Agrimensor | Universidade Federal do Paraná, Brasil | — |
 
-## Ferramentas e competências
+## Atuação
+
+| Período | Cargo | Instituição |
+| :--- | :--- | :--- |
+| 2025–atual | Pesquisador | LAGEAMB / Universidade Federal do Paraná |
+| 2021–atual | Pesquisador de Doutorado | Universidade Federal do Paraná |
+| 2023–2024 | Pesquisador Visitante | Heidelberg University |
+| 2023–2024 | Regional Ambassador | YouthMappers |
+| 2021 | Professor Substituto / Ensino Técnico e Tecnológico | IFSP |
+| 2019–atual | Consultor em Geoprocessamento | Metamorfose Engenharia |
+| 2021 | Consultor em Geoprocessamento | Automa Vision |
+| 2021 | Analista de Gestão Imobiliária | Cappe Brasil Engenharia |
+| 2020 | Consultor em Geoprocessamento | Geoloc Engenharia e Geologia |
+| 2019–2020 | Consultor em Geoprocessamento | DroneMapp |
+| 2019 | Consultor em Geoprocessamento | Esteio Engenharia e Aerolevantamentos |
+| 2013–2015 | Pesquisador | Universidade Federal do Paraná |
+| 2012 | Estagiário | Fiducial Engenharia e Aerolevantamentos |
+| 2010–2012 | Estagiário | LACTEC |
+| 2009 | Monitor / Auxiliar de Ensino | Universidade Federal do Paraná |
+
+## Interesses de pesquisa
+
+- GIScience
+- cartografia colaborativa
+- OpenStreetMap e informação geográfica voluntária
+- análise espacial e espaço-temporal
+- interoperabilidade semântica de dados geoespaciais
+- infraestruturas de dados espaciais
+- automação geoespacial com Python
+- fotogrametria, LiDAR e mapeamento com UAV
+- cadastro 3D
+- qualidade de dados geoespaciais
+
+## Competências técnicas
 
 - Python, R, SQL
 - QGIS, ArcGIS, AutoCAD
-- PostgreSQL, PostGIS, pgAdmin, pgModeler
+- PostgreSQL / PostGIS
 - GeoServer, GeoNode
+- Jupyter Notebook, PowerShell
 - GeoPandas, pandas, NumPy, SciPy, GDAL/OGR, Rasterio, PyProj
 - OHSOME API, OpenStreetMap/Overpass
-- ET-EDGV, Perfil MGB, ISO 19115 e padrões OGC
+- ET-EDGV, Perfil MGB, ISO 19115, OGC
