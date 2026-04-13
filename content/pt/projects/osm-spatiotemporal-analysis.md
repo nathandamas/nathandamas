@@ -1,8 +1,3 @@
----
-title: OpenStreetMap: análise espaço-temporal de contribuições e exclusões
-short_title: OSM análise
----
-
 # OpenStreetMap: análise espaço-temporal de contribuições e exclusões
 
 > [English version](../../en/projects/osm-spatiotemporal-analysis.md)
