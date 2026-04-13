@@ -7,7 +7,7 @@ project:
     Publication-ready bilingual academic-professional website for Nathan Damas Antonio,
     focused on GIScience, collaborative cartography, OpenStreetMap, spatial and
     spatio-temporal analysis, semantic interoperability, photogrammetry, LiDAR,
-    UAV and spatial data infrastructures.
+    UAV, 3D cadastre, and spatial data infrastructures.
   authors:
     - name: Nathan Damas Antonio
       affiliations:
@@ -15,6 +15,7 @@ project:
         - Heidelberg University
   toc:
     - file: content/index.md
+
     - file: content/pt/index.md
       children:
         - file: content/pt/about/index.md
@@ -27,6 +28,7 @@ project:
             - file: content/pt/projects/nlp-llm-geospatial.md
         - file: content/pt/cv/index.md
         - file: content/pt/contact/index.md
+
     - file: content/en/index.md
       children:
         - file: content/en/about/index.md
@@ -42,18 +44,14 @@ project:
 
 site:
   template: book-theme
+  title: Nathan Damas Antonio
   options:
     logo: ./assets/images/logo-light.png
     logo_dark: ./assets/images/logo-dark.png
     logo_alt: Nathan Damas Antonio
     logo_text: Nathan Damas Antonio
-    logo_url: /pt/
     favicon: ./assets/images/favicon.png
     style: ./assets/css/site.css
     outline_maxdepth: 2
-  parts:
-    footer: footer.md
-  options:
-    style: ./assets/css/site.css
   parts:
     footer: footer.md
