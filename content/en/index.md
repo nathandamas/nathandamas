@@ -2,6 +2,7 @@
 title: Nathan Damas Antonio
 short_title: Home
 authors: []
+downloads: []
 ---
 
 Researcher in GIScience, collaborative cartography, OpenStreetMap, spatial analysis, and semantic interoperability.

@@ -1,6 +1,7 @@
 ---
 title: Spatial data infrastructures and territorial data management
 short_title: SDI and management
+downloads: []
 ---
 
 # Spatial data infrastructures and territorial data management

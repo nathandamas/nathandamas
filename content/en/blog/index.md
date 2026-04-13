@@ -1,6 +1,7 @@
 ---
 title: Blog
 short_title: Blog
+downloads: []
 ---
 
 # Blog

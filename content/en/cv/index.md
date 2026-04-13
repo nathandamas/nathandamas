@@ -1,6 +1,7 @@
 ---
 title: CV
 short_title: CV
+downloads: []
 ---
 
 # Curriculum Vitae

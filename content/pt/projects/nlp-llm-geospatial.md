@@ -1,6 +1,7 @@
 ---
 title: PLN e LLMs aplicados ao domínio geoespacial
 short_title: PLN e LLMs
+downloads: []
 ---
 
 # PLN e LLMs aplicados ao domínio geoespacial

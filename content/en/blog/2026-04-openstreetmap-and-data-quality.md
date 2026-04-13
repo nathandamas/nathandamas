@@ -1,6 +1,7 @@
 ---
 title: OpenStreetMap, data quality, and spatio-temporal analysis
 short_title: OSM and data quality
+downloads: []
 ---
 
 # OpenStreetMap, data quality, and spatio-temporal analysis
