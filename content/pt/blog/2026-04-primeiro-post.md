@@ -1,6 +1,7 @@
 ---
 title: Primeiro post do site
 short_title: Primeiro post
+downloads: []
 ---
 
 # Primeiro post do site

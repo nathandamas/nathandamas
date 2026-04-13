@@ -1,6 +1,7 @@
 ---
 title: Publications
 short_title: Publications
+downloads: []
 ---
 
 # Publications

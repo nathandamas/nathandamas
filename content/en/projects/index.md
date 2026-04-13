@@ -1,6 +1,7 @@
 ---
 title: Projects
 short_title: Projects
+downloads: []
 ---
 
 # Projects

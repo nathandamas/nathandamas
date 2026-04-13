@@ -1,6 +1,7 @@
 ---
 title: Infraestrutura de dados espaciais e gestão territorial
 short_title: IDE e gestão
+downloads: []
 ---
 
 # Infraestrutura de dados espaciais e gestão territorial

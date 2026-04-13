@@ -1,6 +1,7 @@
 ---
 title: NLP and LLMs applied to the geospatial domain
 short_title: NLP and LLMs
+downloads: []
 ---
 
 # NLP and LLMs applied to the geospatial domain
